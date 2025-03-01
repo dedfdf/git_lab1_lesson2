@@ -1,5 +1,5 @@
-Ветка demo ни чем не отличается от ветки master
-Ветка master: 10 коммитов
+Ветка demo ничем не отличается от ветки master
+Ветка master: 11 коммитов
     init
     heat added
     boots
@@ -10,6 +10,7 @@
     Merge remote-tracking branch 'valentin/buttons' into boots_buttons
     Merge remote-tracking branch 'valentin/hat'
     hometask.txt
+    final
 Ветка boots_buttons: 7 коммитов
     init
     boots
