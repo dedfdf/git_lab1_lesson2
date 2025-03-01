@@ -1,0 +1,20 @@
+Ветка demo ни чем не отличается от ветки master
+Ветка master: 10 коммитов
+    init
+    heat added
+    boots
+    README added
+    dots
+    fix readme
+    Merge remote-tracking branch 'valentin/boots' into boots_buttons
+    Merge remote-tracking branch 'valentin/buttons' into boots_buttons
+    Merge remote-tracking branch 'valentin/hat'
+    hometask.txt
+Ветка boots_buttons: 7 коммитов
+    init
+    boots
+    README added
+    dots
+    fix readme
+    Merge remote-tracking branch 'valentin/boots' into boots_buttons
+    Merge remote-tracking branch 'valentin/buttons' into boots_buttons
